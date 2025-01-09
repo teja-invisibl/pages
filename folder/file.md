@@ -1,1 +1,1 @@
-hello makkale
+hello from folder
